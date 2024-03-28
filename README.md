@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ShivamAPawar
 - I am currently learning web development with the odin project
-- I love gaming, anime, movies(lord of rings and Batman triology is my fav)
-- I love reading also (I post summaries of what I read on my website minimylist.co)
-- I play badminton at college level and love excersing ( though i binge eat a lot)
+- I love reading also (I post summaries of what I read on my website minimylist.co) and hence want to improve my website
 - Thanks for taking your time reading this hope you have the best day ahead.
